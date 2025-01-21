@@ -10,7 +10,6 @@ const Navbar = () => {
                         <div
                             className="flex flex-1 items-center justify-center md:items-stretch md:justify-start"
                         >
-                            {/* <!-- Logo -->*/}
                             <a className="flex flex-shrink-0 items-center mr-4" href="/index.html">
                                 <img
                                     className="h-10 w-auto"
